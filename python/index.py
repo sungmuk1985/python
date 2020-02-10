@@ -1,6 +1,6 @@
 #!C:\Users\sungm\AppData\Local\Programs\Python\Python38\Python.exe
 #!/usr/local/bin/python3
-#아톰과 git 연동방법을 익히는 중입니다.
+#아톰과 git 연동방법을 익히는 중입니다.  
 print("Content-Type: text/html")
 print()
 import cgi
